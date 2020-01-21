@@ -1,0 +1,11 @@
+C:\Users\UFAC014\source\repos\BalancingScalesApp\BalancingScalesApp\bin\Debug\netcoreapp3.1\BalancingScalesApp.exe
+C:\Users\UFAC014\source\repos\BalancingScalesApp\BalancingScalesApp\bin\Debug\netcoreapp3.1\BalancingScalesApp.deps.json
+C:\Users\UFAC014\source\repos\BalancingScalesApp\BalancingScalesApp\bin\Debug\netcoreapp3.1\BalancingScalesApp.runtimeconfig.json
+C:\Users\UFAC014\source\repos\BalancingScalesApp\BalancingScalesApp\bin\Debug\netcoreapp3.1\BalancingScalesApp.runtimeconfig.dev.json
+C:\Users\UFAC014\source\repos\BalancingScalesApp\BalancingScalesApp\bin\Debug\netcoreapp3.1\BalancingScalesApp.dll
+C:\Users\UFAC014\source\repos\BalancingScalesApp\BalancingScalesApp\bin\Debug\netcoreapp3.1\BalancingScalesApp.pdb
+C:\Users\UFAC014\source\repos\BalancingScalesApp\BalancingScalesApp\obj\Debug\netcoreapp3.1\BalancingScalesApp.csprojAssemblyReference.cache
+C:\Users\UFAC014\source\repos\BalancingScalesApp\BalancingScalesApp\obj\Debug\netcoreapp3.1\BalancingScalesApp.AssemblyInfoInputs.cache
+C:\Users\UFAC014\source\repos\BalancingScalesApp\BalancingScalesApp\obj\Debug\netcoreapp3.1\BalancingScalesApp.AssemblyInfo.cs
+C:\Users\UFAC014\source\repos\BalancingScalesApp\BalancingScalesApp\obj\Debug\netcoreapp3.1\BalancingScalesApp.dll
+C:\Users\UFAC014\source\repos\BalancingScalesApp\BalancingScalesApp\obj\Debug\netcoreapp3.1\BalancingScalesApp.pdb
